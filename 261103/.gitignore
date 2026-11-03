@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+261103_results/*
+!261103_results/README.md
